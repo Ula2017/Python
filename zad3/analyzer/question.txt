@@ -1,0 +1,40 @@
+Enter your full firstname:
+Enter your birthdate(format dd-mm-yyyy):
+Enter your mother's name:
+Enter your place of birth:
+Enter your father's name:
+a1. Do you have brother?
+a2. Do you have brothers?
+a3. Do you have any siblings?
+a4. Do you have sister?
+a5. Do you have sisters?
+10. Is your name <name>?
+Is your name <name>?
+Is your name <tname>?
+Is your name <tname>?
+Were you born in <year>?
+Were you born in <tyear>?
+Do you celebrate your birthdate in <month>?
+Are you really <age>years old?
+Are you <age>years old?
+Are you really <tage>years old?
+Were you born on <date>?
+Is your cat’s name <father>? 
+Is your mum <mother>?
+Is today <tactual>?
+Is today <actual>?
+Is it <hours>?
+Is it <thours>?
+f1. Are you telling the truth?
+g1. Are you talking untruth?
+d1. Do you have any pets?
+d1. Are you the owner of dog?
+e1. Does cat have four legs?
+e1. Does cat have moustache?
+h1. Did question "Do you have any dog?" appeared?
+
+
+
+
+
+
